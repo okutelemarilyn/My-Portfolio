@@ -1,2 +1,1 @@
-# My-Portfolio
-Personal portfolio showcasing frontend projects, web designs, and graphic design files created using HTML, CSS, JavaScript, Bootstrap, and design tools like Photoshop, Illustrator, InDesign, and CorelDRAW.
+Welcome to my portfolio repository! Here you’ll find my web development projects and graphic designs. This repo includes live websites, UI/UX designs, and design source files. Tools used include HTML, CSS, JavaScript, Bootstrap, Photoshop, Illustrator, InDesign, and CorelDRAW. Feel free to explore, and connect with me for collaborations!
